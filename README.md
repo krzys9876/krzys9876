@@ -4,7 +4,7 @@ I write code at work and for fun.
 
 Professionally I do a lot of database stuff (Oracle, Postgresql/Greenplum), I use java, scala (+spark) and python as my primary languages.
 
-I love retro computing so you may find some Z80 assembler, FPGAs and Arduino. I'm always trying to do my retro computers myself including schematics, PCB layout and etching.
+I love retro computing so you may find some Z80 assembler, FPGAs and Arduino. I'm always trying to do my retro computers all by myself including schematics, PCB layout, board etching and soldering.
 
 Feel free to use my code and enjoy 👍
 
