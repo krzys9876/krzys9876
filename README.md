@@ -1,12 +1,10 @@
-👋 Hi, I’m **@krzys9876**. 
+👋 Hi, I’m Krzysztof. 
 
 I write code at work and for fun. 
 
-Professionally I do a lot of database stuff (Oracle, Postgresql/Greenplum), I use scala (+spark), java and python as my primary languages.
+Professionally I do a lot of database stuff (Oracle, Postgresql/Greenplum), I use Scala (+Spark), Java and Python as my primary languages.
 
 I love retro computing so you may find some Z80 assembler programs, FPGAs and Arduino. I'm recreating retro computers all by myself including schematics, PCB layout, board etching and soldering. I also write simulators of old CPUs and machines (e.g. Z80 and ZX Spectrum) and play with ancient language of Basic.
-
-Feel free to use my code and enjoy 👍
 
 Cheers 
 
